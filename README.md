@@ -31,7 +31,9 @@
 
 
 Data Modelling and Evaluation:
+
 Implemented KNN algorithm (Supervised Learning):
+
 Pseudo code:
 1. Load the csv file of training data. Append each record of training data into a list using the csv reader.
 2. Convert all the string column of data to float.
