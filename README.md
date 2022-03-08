@@ -1,8 +1,8 @@
 # Titanic-Machine-learning-from-disaster
 
 1. Participated in Kaggle competition to predict the survival rate of passengers.
-2. Conducted data exploration and feature engineering on training and test data using pandas library. 
-3. Implemented KNN algorithm from scratch using python. 
+2. Conducted data cleaning, exploration and feature engineering on training and test data using the pandas.
+3. Implemented KNN algorithm from scratch with accuracy score as metrics to generate prediction classes.
 
  
  Quick Findings:
